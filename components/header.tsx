@@ -21,14 +21,7 @@ export function Header() {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center gap-3">
-            <Image
-              src="/images/logo.jpg"
-              alt="GKV Associates Logo"
-              width={60}
-              height={40}
-              className="h-10 w-auto"
-              priority
-            />
+            
             <div className="flex flex-col">
               <span className="font-bold text-lg leading-tight">G.K. Vaid & Associates</span>
               <span className="text-xs text-muted-foreground">Chartered Accountants</span>
