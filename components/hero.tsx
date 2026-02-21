@@ -17,7 +17,7 @@ export function Hero() {
             business thrive.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button size="lg" variant="secondary" className="group text-slate-400">
+            <Button size="lg" variant="secondary" className="group">
               Schedule Consultation
               <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </Button>
